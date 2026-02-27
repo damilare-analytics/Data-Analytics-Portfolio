@@ -1,4 +1,4 @@
-# 1. Customer Month by Month Retention
+# Customer Month by Month Retention
 
 # Customer Month by Month Retention
 
@@ -62,3 +62,4 @@ This dataset simulates real-world e-commerce operations and includes information
 * SQL Query
 * Excel Dataset
 * Visualization (PNG)
+
