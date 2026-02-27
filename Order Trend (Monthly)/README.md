@@ -1,4 +1,4 @@
-# 2. Order Trend (Monthly)
+# Order Trend (Monthly)
 
 # Order Trend (Monthly)
 
@@ -55,3 +55,4 @@ This dataset simulates real-world e-commerce operations and includes transaction
 * SQL Query
 * Excel Dataset
 * Trend Chart (PNG)
+
