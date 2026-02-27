@@ -1,14 +1,14 @@
-# Revenue by States
+# Revenue Share by Product Category
 
 ## Project Overview
 
-This project evaluates how revenue is distributed across different states.
+This project analyzes how different product categories contribute to total revenue.
 
 ---
 
 ## Objective
 
-To identify geographic areas contributing the most to business revenue.
+To understand which product groups drive business income.
 
 ---
 
@@ -21,22 +21,22 @@ To identify geographic areas contributing the most to business revenue.
 
 ## SQL Approach
 
-Revenue was calculated by:
+The dataset was analyzed by:
 
-* Grouping transactions by state
-* Summing total revenue per state
+* Grouping sales by product category
+* Calculating total revenue per category
 
 ---
 
 ## Visualization
 
-A bar chart was used to compare state-level performance.
+A pie chart was created to show revenue share.
 
 ---
 
 ## Key Insight
 
-Revenue varies by location, indicating strong and weak regional markets.
+Certain categories contribute more significantly to overall revenue.
 
 ---
 
@@ -50,4 +50,4 @@ The analysis was conducted using the **thelook_ecommerce** public dataset from G
 
 * SQL Query
 * Excel Dataset
-* Visualization (PNG)
+* Pie Chart (PNG)
