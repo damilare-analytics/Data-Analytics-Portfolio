@@ -35,5 +35,4 @@ Files Included are;
 -SQL Query
 -Excel Dataset
 -Visualization (PNG)
-* Excel Dataset
-* Visualization (PNG)
+
