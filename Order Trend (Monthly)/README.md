@@ -1,7 +1,5 @@
 # Order Trend (Monthly)
 
-# Order Trend (Monthly)
-
 ## Project Overview
 
 This project examines how order volume changes over time.
@@ -55,4 +53,5 @@ This dataset simulates real-world e-commerce operations and includes transaction
 * SQL Query
 * Excel Dataset
 * Trend Chart (PNG)
+
 
