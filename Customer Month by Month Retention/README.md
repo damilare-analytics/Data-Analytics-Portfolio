@@ -1,7 +1,5 @@
 # Customer Month by Month Retention
 
-# Customer Month by Month Retention
-
 ## Project Overview
 
 This project analyzes customer retention patterns on a monthly basis to understand how consistently customers return to make repeat purchases.
@@ -62,4 +60,5 @@ This dataset simulates real-world e-commerce operations and includes information
 * SQL Query
 * Excel Dataset
 * Visualization (PNG)
+
 
