@@ -1,2 +1,0 @@
-# Data-Analytics-Portfolio
-SQL | EXCEL | DATA VISUALIZATION PROJECTS
