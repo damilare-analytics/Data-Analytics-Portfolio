@@ -1,4 +1,6 @@
-Order Trend (Monthly)
+# 2. Order Trend (Monthly)
+
+# Order Trend (Monthly)
 
 ## Project Overview
 
