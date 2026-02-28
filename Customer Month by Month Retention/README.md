@@ -1,64 +1,129 @@
-# Customer Month by Month Retention
+📊 Customer Month-by-Month Retention Analysis
+Project Overview
 
-## Project Overview
+This project analyzes customer retention patterns on a monthly basis to understand how consistently customers return to make repeat purchases. The analysis helps businesses evaluate customer loyalty, engagement trends, and long-term growth sustainability.
 
-This project analyzes customer retention patterns on a monthly basis to understand how consistently customers return to make repeat purchases.
+The project was executed using SQL (Google BigQuery) for data extraction and transformation, and Excel for visualization and business insights.
 
----
+Objective
 
-## Objective
+To measure customer retention performance over time by:
 
-To measure customer loyalty by identifying how many customers continue to engage with the business over time.
+Identifying active customers each month
 
----
+Tracking repeat customer behavior
 
-## Tools Used
+Calculating month-over-month retention rates
 
-* SQL (BigQuery)
-* Excel (Visualization)
+Generating insights that support customer growth and revenue strategy
 
----
+Business Questions Answered
 
-## SQL Approach
+How many customers return each month?
 
-The dataset was analyzed by:
+Is customer retention improving or declining over time?
 
-* Identifying unique customers per month
-* Tracking repeat purchases across months
-* Measuring retention trends over time
+Are we building long-term customer loyalty?
 
----
+What trends can guide customer engagement and retention strategies?
 
-## Visualization
+Dataset
 
-A monthly trend chart was created in Excel to display retention patterns.
+The analysis was conducted using the thelook_ecommerce public dataset from Google BigQuery.
 
----
+This dataset simulates real-world e-commerce operations and contains:
 
-## Key Insight
+Customers
 
-Retention analysis reveals how effectively the business maintains ongoing customer engagement.
+Orders
 
----
+Products
 
-## Dataset
+Revenue
 
-The analysis was conducted using the **thelook_ecommerce** public dataset from Google BigQuery.
+Geographic sales distribution
 
-This dataset simulates real-world e-commerce operations and includes information on:
+Data Scale:
 
-* Customers
-* Orders
-* Products
-* Revenue
-* Geographic sales distribution
+Over 1 million transaction records
 
----
+Multiple interconnected business tables
 
-## Files Included
+Multi-year sales and customer activity history
 
-* SQL Query
-* Excel Dataset
-* Visualization (PNG)
+Tools Used
 
+SQL (Google BigQuery) – Data querying, aggregation, and transformation
 
+Excel – Trend visualization and reporting
+
+SQL Approach
+
+The analysis followed these steps:
+
+Extracted unique customers per month
+
+Tracked repeat purchases across consecutive months
+
+Computed monthly retention rates
+
+Structured queries using:
+
+Common Table Expressions (CTEs)
+
+Aggregation functions
+
+Date transformations
+
+Window logic
+
+Visualization
+
+A monthly retention trend chart was created using Excel to clearly show:
+
+Customer activity patterns
+
+Retention fluctuations
+
+Growth and decline cycles
+
+This visualization enables quick executive-level interpretation.
+
+Key Insights
+
+Customer retention showed periodic fluctuations, indicating opportunities for:
+
+Improved customer engagement
+
+Loyalty programs
+
+Post-purchase marketing strategies
+
+Retention spikes suggest successful promotional or operational periods
+
+Low-retention periods highlight potential churn risks
+
+Business Recommendations
+
+Implement customer loyalty and reward programs to improve repeat purchase behavior
+
+Launch targeted re-engagement campaigns during low-retention months
+
+Perform customer feedback analysis to identify reasons for churn
+
+Develop personalized promotions for returning customers
+
+Files Included
+
+SQL Query File
+
+Excel Dataset
+
+Retention Trend Visualization (PNG)
+
+Author
+
+Damilare Orosunsuyi
+Data Analyst | SQL • Excel • Business Intelligence
+📍 Lagos, Nigeria
+🌍 Open to Global Remote Opportunities
